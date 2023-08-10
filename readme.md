@@ -1,4 +1,4 @@
-# Curso React Deivchoi
+# Curso React 
 
 ## Instrucciones para ejecutar el proyecto
 
